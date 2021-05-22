@@ -8,7 +8,7 @@ image: assets/images/phtechweek2021.png
 description: "My first post on this site, inspired by the recently concluded #PHTechWeek2021."
 ---
 
-I don'tt remember what exactly led me to attend this conference. 
+I don't remember what exactly led me to attend this conference. 
 
 It must have been over a decade since the last time I attended a geek conference, that was back when I was still a developer. 
 
