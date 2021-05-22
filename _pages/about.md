@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About the Pinoy Testers Community
 permalink: /about
 comments: true
 ---
