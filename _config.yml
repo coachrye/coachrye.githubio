@@ -13,6 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
+  rye:
+    name: Rye
+    display_name: Rye
+    gravatar: 5c40b05ff8cbb7703abecaa5d27e3e24
+    email: rye@coachrye.com
+    web: https://www.coachrye.com
+    twitter: https://twitter.com/coachrye34
+    description: "Performance Coach. Software Geek. Entrepreneur."
   sal:
     name: Sal
     display_name: Sal
