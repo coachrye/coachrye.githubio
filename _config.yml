@@ -16,7 +16,7 @@ authors:
   rye:
     name: Rye
     display_name: Rye
-    avatar: 'assets/images/avatar.jpg'
+    avatar: 'assets/images/avatar.png'
     gravatar: 5c40b05ff8cbb7703abecaa5d27e3e24
     email: rye@coachrye.com
     web: https://www.coachrye.com
