@@ -6,6 +6,7 @@ categories: [ PinoyTechCommunity ]
 tags: [PHTechWeek2021]
 image: assets/images/phtechweek2021.png
 description: "My first post on this site, inspired by the recently concluded #PHTechWeek2021."
+featured: true
 ---
 
 I don't remember what exactly led me to attend this conference. 
