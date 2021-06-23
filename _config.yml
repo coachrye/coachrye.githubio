@@ -1,7 +1,7 @@
 # Site
-name: "pinoytesters"
-title: "Pinoy Testers"
-description: "This will be the official repository for the Pinoy Testers Community"
+name: "coachrye"
+title: "Coach Rye - Geeky Coach"
+description: "Official GitHub profile of the Geeky Coach"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/'
